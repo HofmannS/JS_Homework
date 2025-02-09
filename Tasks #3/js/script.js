@@ -218,3 +218,24 @@ let list = fruits.reduce(function(acc, product){
 }, {})
 console.log(`Задача №9. Ответ: `);
 console.log(list);
+
+
+
+const x = 16
+const array = []
+for (let i = 0; i < array.length; i++) {
+    if(x == array[i]){
+        console.log("Найдено");
+        break
+    }else{
+        console.log("Не найдено");
+    }
+}
+
+
+if( x % 2 == 0){
+    console.log("Четное");
+}else{
+    console.log("Нечетное");
+}
+    
