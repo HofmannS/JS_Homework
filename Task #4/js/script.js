@@ -1,3 +1,4 @@
+// Переписал код с использованием объекта. В первый раз (не знаю как) при выполнении задания не обратил на него внимания.
 let product = {
     title: "Customized bike",
     img: "https://avatars.mds.yandex.net/i?id=bcf239099f66e95017c5ea42b42859668ccd1a267175e79e-3910357-images-thumbs&n=13",
